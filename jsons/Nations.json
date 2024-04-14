@@ -27,9 +27,9 @@
 		"afterPeace": "This many people die on war for peace.",
 		"tradeRequest": "We bestow you the honor of this trade offer.",
 
-		"outerColor": [16,16,16],
+		"outerColor": [0,100,100],
 		"innerColor": [255,200,200],
 		"unique": "MANIFEST_DESTINY",
-		"cities": ["Kraków, Wsrszawa, Poznań, Wrocław, Gdańsk, Płock, Kalisz, Zielona Góra, Łódź, Konin, "]
+		"cities": ["Kraków, Wsrszawa, Poznań, Wrocław, Gdańsk, Płock, Kalisz, Zielona Góra, Łódź, Konin, Legnica"]
 	}
 ]
