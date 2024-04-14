@@ -1,30 +1,30 @@
 [
 	{
-		"name": "Aliens",
-		"leaderName": "Zyxxyz",
-		"adjective": ["alien"],
-		"startBias": ["Snow"],
-		"preferredVictoryType": "Scientific",
+		"name": "Poland",
+		"leaderName": "Kazimierz IV Jagiellończyk",
+		"adjective": ["poland"],
+		"startBias": ["Avoid [Desert]"],
+		"preferredVictoryType": "Domination",
 		
-		"startIntroPart1": "We come in peace!",
-		"startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature. Set Phasers to Obliterate!!",
+		"startIntroPart1": "",
+		"startIntroPart2": ".",
 		
-		"declaringWar": "Resistance is futile! Prepare to be assimilated!",
-		"attacked": "You want to play? Very funny!",
-		"defeated": "How is it possible that those Apes hurt us? The galactic senate will take care of them.",
-		"introduction": "As superior galactic entities, you are not worthy of our attention.",
+		"declaringWar": "as you wish",
+		"attacked": "You will regret it!",
+		"defeated": "Jeszcze Polska nie zginęła, We will back!",
+		"introduction": "May God bless you! My name is Kazimierz IV Jagiellończyk. Better to have me on your side",
 		
-		"neutralHello": "How are you doing?",
-		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
-		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
-		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+		"neutralHello": "Greetings, is it twenty o'clock already?",
+		"neutralLetsHearIt": ["thats it?.","What about this?","That will be ok?"],
+		"neutralNo": ["Definitely no!.","Try again.","nuh uh."],
+		"neutralYes": ["My pleasure.","fantastic.","That is nice."],
 
-		"hateHello": "What do you want now?",
+		"hateHello": "What do you want now?!",
 		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
-		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
+		"hateNo": ["Are you crazy?!","NUH UH!","I beg your pardon?"],
 		"hateYes": ["That is fine.","That is good enough.","Very well..."],
 		
-		"afterPeace": "Very well, all that fighting was getting boring anyway.",
+		"afterPeace": "This many people die on war for peace.",
 		"tradeRequest": "We bestow you the honor of this trade offer.",
 
 		"outerColor": [16,16,16],
